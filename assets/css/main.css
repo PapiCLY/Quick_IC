@@ -3324,6 +3324,11 @@ input, select, textarea {
 			#nav {
 				max-width: calc(100% - 2em);
 			}
+			/* #nav ul li a{
+				display:flex;
+				align-items: center;
+				justify-content: center;
+			} */
 
 				/* #nav + #main{
 					width: 100%;
