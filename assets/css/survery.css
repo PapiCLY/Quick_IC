@@ -111,3 +111,10 @@ body {
  background-color: #5849c5;
  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05);
 }
+
+/*survey img*/
+
+.survey{
+    display: flex;
+    width: 500px;
+}
